@@ -10,7 +10,7 @@ December 2019. Modified March 2020 to include the AER, GHG and NAT forcings.
 
 ## Data description
 
-ERF is calculated as the difference in net TOA radiative flux between the RFMIP `piClim-histall`, `piClim-histnat`,`piClim-histghg`,`piClim-histaer` and `piClim-control` HadGEM3-GC3.1-LL experiments.  The global-annual-mean data runs from 1850-2014 inclusive.  Fluxes are positive downards.  Details are given in Andrews et al. (2019).  The data are the lines in Figure 7a of Andrews et al. (2019).
+ERF is calculated as the difference in net TOA radiative flux between RFMIP `piClim-histall`, `piClim-histnat`,`piClim-histghg`,`piClim-histaer` and `piClim-control` HadGEM3-GC3.1-LL experiments.  The global-annual-mean data runs from 1850-2014 inclusive.  Fluxes are positive downards.  Details are given in Andrews et al. (2019).  The data are the lines in Figure 7a of Andrews et al. (2019).
 
 ## Data files
 
